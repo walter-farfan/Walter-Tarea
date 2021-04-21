@@ -1,0 +1,6 @@
+C:\Users\deppc\source\repos\slnUniversidadAndina\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\deppc\source\repos\slnUniversidadAndina\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\deppc\source\repos\slnUniversidadAndina\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\deppc\source\repos\slnUniversidadAndina\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\deppc\source\repos\slnUniversidadAndina\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\deppc\source\repos\slnUniversidadAndina\CapaNegocio\obj\Debug\CapaNegocio.pdb
